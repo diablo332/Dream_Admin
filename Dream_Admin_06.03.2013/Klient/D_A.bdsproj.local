@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011.10.12 10:06:01.406.pas,C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\Unit1.pas=C:\folder\folder\Diablo\Panisher12.10.2011\punisher\Unit1.pas</Transaction>
+    <Transaction>2011.10.12 10:06:01.406.dfm,C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\Unit1.dfm=C:\folder\folder\Diablo\Panisher12.10.2011\punisher\Unit1.dfm</Transaction>
+    <Transaction>2011.10.12 10:06:04.937.bdsproj,C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\Project1.bdsproj=C:\folder\folder\Diablo\Panisher12.10.2011\punisher\Project1.bdsproj</Transaction>
+    <Transaction>2011.11.16 13:14:51.078.bdsproj,E:\][acker\Dream_Admin_15.10.2011\punisher\Project1.bdsproj=E:\][acker\Dream_Admin_16.11.11\Klient\Project1.bdsproj</Transaction>
+    <Transaction>2011.11.16 13:17:17.343.bdsproj,E:\][acker\Dream_Admin_16.11.11\Klient\Project1.bdsproj=E:\][acker\Dream_Admin_16.11.11\Klient\D_A.bdsproj</Transaction>
+    <Transaction>2011.11.29 17:03:58.140.pas,I:\][acker\Dream_Admin_16.11.11\Klient\Unit9.pas=</Transaction>
+    <Transaction>2012.01.09 14:35:10.171.bdsproj,N:\][acker\Dream_Admin_16.11.11\Klient\D_A.bdsproj=D:\][ack_book\Dream_Admin_16.11.11\Klient\D_A.bdsproj</Transaction>
+    <Transaction>2012.03.12 16:48:22.308.bdsproj,F:\Diablo\Dream_Admin_10.03.2012\Klient\D_A.bdsproj=F:\Diablo\Dream_Admin_10.03.2012\Klient\D_A.bdsproj</Transaction>
+    <Transaction>2012.03.12 16:49:46.040.pas,F:\Diablo\Dream_Admin_10.03.2012\Klient\Unit13.pas=</Transaction>
+    <Transaction>2012.03.12 16:49:46.040.dfm,F:\Diablo\Dream_Admin_10.03.2012\Klient\Unit13.dfm=</Transaction>
+    <Transaction>2012.03.12 16:49:58.555.pas,F:\Diablo\Dream_Admin_10.03.2012\Klient\Unit14.pas=F:\Diablo\Dream_Admin_10.03.2012\Klient\Unit13.pas</Transaction>
+  </Transactions>
+</BorlandProject>
